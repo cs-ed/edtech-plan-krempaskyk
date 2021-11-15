@@ -191,5 +191,3 @@ I we ever have to go back to DL, students will not have the luxury of working on
 
 As mentioned before, we really should build another computer lab.  That would be something that admin should budget for soon.
 
-k.txt
-Displaying k.txt.
